@@ -8,7 +8,7 @@ Issues
 ------
 Issues are tracked on GitHub, in the "development" repository.
 
-Submit and track issues with HubDrop.io here: https://github.com/hubdrop/issues/issues
+Submit and track issues with HubDrop.io here: https://github.com/hubdrop/development/issues
 
 Developing HubDrop
 ------------------
