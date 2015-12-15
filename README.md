@@ -19,4 +19,4 @@ To install Vagrant, head to [VagrantUp.com](http://www.vagrantup.com/downloads).
 
 To install Git, head to [GitSCM.com](http://www.gitscm.com).
 
-To get going on developing hubdrop, see [github.com/hubdrop/vagrant](http://github.com/hubdrop/vagrant)
+To get going on developing hubdrop, see [github.com/hubdrop/server](https://github.com/hubdrop/server)
